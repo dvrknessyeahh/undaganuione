@@ -41,28 +41,28 @@
 }
 
 .modal-body {
-  background-image: url("../img/image5.jpg");
+  background-image: url("../img/image5.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .bg-cover {
-  background-image: url("../img/image6.jpg");
+  background-image: url("../img/image6.webp");
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
 }
 
 #footer {
-  background-image: url("../img/image10.jpg");
+  background-image: url("../img/image10.webp");
   background-size: cover;
   background-attachment: fixed;
   background-position: bottom;
 }
 
 #date {
-  background-image: url("../img/image7.jpg");
+  background-image: url("../img/image7.webp");
   background-size: cover;
   background-position: top;
 }
